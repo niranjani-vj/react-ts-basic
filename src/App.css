@@ -1,0 +1,12 @@
+.main-div{
+  align-items: center;
+  display:block;
+  position:relative;
+  margin: 20px;
+  padding: 10px;
+  font-family: cursive;
+}
+.btn{
+  align-items: center;
+  margin: 5px;
+}
